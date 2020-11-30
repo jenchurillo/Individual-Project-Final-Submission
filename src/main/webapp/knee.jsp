@@ -60,7 +60,7 @@
 <h1>Patient Detailed Care Plan</h1>
 
 <div>
-    <h2>Ice Therapy</h2>
+    <h2>Heat Therapy</h2>
     <p>Apply heat to the affected area for no more than 15 minutes at a time.</p>
     <p>Use a layer of towels between your skin and the heating pad.</p>
     <p>Repeat this process throughout the day—up to 2 or 3 times in a 24-hour period</p>
